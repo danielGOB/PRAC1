@@ -6,4 +6,4 @@ output_file = "statsCorona.csv"
 
 scraper = coronaWorldometersScrapper()
 df = scraper.scrap()
-scraper.df_to_csv(output_file,df)
+scraper.df_to_csv(r'/Users/u598728/Documents/Master/PRAC1/csv/' + output_file,df)
