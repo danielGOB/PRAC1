@@ -10,6 +10,6 @@ Este proyecto ha sido realizado de manera individual por Daniel Gerald Orbegoso 
 ### Fichero del repositorio
 
   + code: este fiechero contiene el codigo en R en formato .rmd preparado para ser cargado en rstudio
-  + csvs: este fiechero contine tres elementos csv. El elemento orginal usado para este estudio "train.csv", el archivo "dataframe1.csv", el cual ha sido usado durante la primera parte del análisis y el elemento "dataframe2.csv", el cual ha sido usado para mostrar unos gráficos por pantalla.
+  + csvs: este fichero contine tres elementos csv. El elemento orginal usado para este estudio "train.csv", el archivo "dataframe1.csv", el cual ha sido usado durante la primera parte del análisis (ciertas columnas están en un formato apropiado para poder usarlo en los análisis) y el elemento "dataframe2.csv", el cual ha sido usado para mostrar unos gráficos por pantalla(ciertas columnas están en un formato apropiado para poder mosrtarlos en ciertos gráficos).
   + pdf: Este pdf contiene todas las respuestas del proyecto que se han planteado por el profesor.En ella también se puede encontrar el código, con las gráficas creadas y los distintos tipos de análisis llevadas a cabo para realizar este proyecto.
 
