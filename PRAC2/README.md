@@ -1,5 +1,4 @@
-# PRAC1: Web Scraping
-Prac2 de Tipología y ciclo de vida de los datos
+# Prac2: Tipología y ciclo de vida de los datos
 
 ### Descripción
 
